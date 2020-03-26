@@ -1,0 +1,7 @@
+{
+  "name": "botecando",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
